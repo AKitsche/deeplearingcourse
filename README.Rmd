@@ -1,0 +1,15 @@
+---
+output: github_document
+bibliography: deep_learning_course.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This repository contains R functions to build up deep learning modules in R for training purposes.
+
+This is a step-by-step guide to introduce the fundamental of deep learning using neural networks. 
+The content of this repository is highly based on my personal leanings of Andrew Ng's Coursera Deep Learning Specialization course [@deep_learning]. Furthermore the author would refer to the books @GoodBengCour16 and @Chollet2018.
+
+# References
